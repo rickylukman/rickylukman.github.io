@@ -1,0 +1,12 @@
+#Home {
+    display: flex; /* flex behavior (displays children inline) */
+    justify-content: center; /* horizontal centering */
+    align-items: center; /* vertical centering */
+    height: 100vh;
+    margin: 0;
+}
+
+.item {
+    text-align: center;
+    font-family: 'Trebuchet MS', sans-serif;
+}
