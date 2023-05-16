@@ -8,6 +8,7 @@ const Home = () => {
                 <div className="item">
                     <h1>rickylukman/@cirricky</h1>
                     <p>-it still under construction :)</p>
+                    <p>Tes Updated 16 May 2023</p>
                 </div>
             </div>
         </section>
